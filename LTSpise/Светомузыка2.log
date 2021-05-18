@@ -1,0 +1,104 @@
+Missing ".ends" statement in file "..\sym\EXTRA\DIODES.COM\ZENER\LIB\zener.lib"
+Questionable use of curly braces in "src={bzx84c6v8t}"
+    Error: undefined symbol in: "[bzx84c6v8t]"
+Circuit: * E:\Аналоговая электроника\Катя\LTSPICE\Светомузыка2.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+Gmin = 1.67772
+vernier = 0.25
+vernier = 0.125
+Gmin = 1.20453
+vernier = 0.0625
+vernier = 0.0833333
+vernier = 0.0416667
+Gmin = 1.12594
+vernier = 0.0208333
+vernier = 0.0277778
+vernier = 0.0138889
+Gmin = 1.09327
+vernier = 0.0185185
+vernier = 0.00925925
+Gmin = 1.06829
+vernier = 0.0123457
+vernier = 0.00617283
+vernier = 0.00823044
+Gmin = 1.0533
+vernier = 0.00411522
+vernier = 0.00548696
+Gmin = 1.04431
+vernier = 0.00274348
+vernier = 0.00365797
+Gmin = 1.03789
+vernier = 0.00182899
+vernier = 0.00243865
+Gmin = 1.033
+vernier = 0.00325153
+vernier = 0.00162576
+Gmin = 1.0286
+vernier = 0.00216769
+vernier = 0.00108384
+vernier = 0.00144512
+Gmin = 1.026
+vernier = 0.00192683
+vernier = 0.000963415
+Gmin = 1.02341
+vernier = 0.00128455
+vernier = 0.000642277
+Gmin = 1.02111
+vernier = 0.000856369
+Gmin = 1.01915
+vernier = 0.00114182
+vernier = 0.000570912
+vernier = 0.000761216
+Gmin = 1.01784
+vernier = 0.00101495
+vernier = 0.000507477
+Gmin = 1.01661
+vernier = 0.000676636
+vernier = 0.000902182
+vernier = 0.000451091
+Gmin = 1.01535
+vernier = 0.000601454
+vernier = 0.000451091
+Gmin = 1.01432
+vernier = 0.000601454
+vernier = 0.000451091
+Gmin = 1.01341
+vernier = 0.000601454
+vernier = 0.000451091
+vernier = 0.000601454
+vernier = 0.00045109
+Gmin = 1.01272
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Mon May 17 16:45:39 2021
+Total elapsed time: 47.199 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 165228
+traniter = 151000
+tranpoints = 74105
+accept = 64530
+rejected = 9575
+matrix size = 83
+fillins = 179
+solver = Normal
+Thread vector: 9.3/8.2[2] 5.8/4.6[2] 1.8/1.8[1] 0.7/1.7[1]  2592/500
+Matrix Compiler1: 14.63 KB object code size  4.8/3.3/[1.3]
+Matrix Compiler2: off  [2.4]/2.8/3.5
+
+
